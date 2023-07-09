@@ -1,0 +1,31 @@
+.header {
+    background-color: rgb(83, 83, 126);
+    display: flex;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.hed {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(83, 83, 126);
+}
+
+.top {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.headblock {
+    max-width: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.down {
+    display: flex;
+}
+
